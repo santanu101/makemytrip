@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109766" started-at="2020-08-15T09:46:55Z" finished-at="2020-08-15T09:48:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="109766" started-at="2020-08-15T09:46:55Z" finished-at="2020-08-15T09:48:45Z">
+      <class name="com.w2a.cucumber.zoho.runners.makemytripRunners">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.w2a.cucumber.zoho.runners.makemytripRunners@4135c3b]" name="runCukes" duration-ms="109730" started-at="2020-08-15T15:16:55Z" finished-at="2020-08-15T15:18:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.w2a.cucumber.zoho.runners.makemytripRunners -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
